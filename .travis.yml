@@ -1,4 +1,4 @@
 language: python
 script:
-  - test.sh
+  - ./test.sh
 
