@@ -1,4 +1,4 @@
 language: python
-build:
-  - docker-compose up
+script:
+  - test.sh
 
