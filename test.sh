@@ -1,4 +1,4 @@
-/usr/bin/docker-compose up
+docker-compose up
 
 /usr/bin/redis-cli -h 172.18.0.2 --scan --pattern "redis"
 
